@@ -26,12 +26,9 @@
     "versionFirst": "4.12.1",
     "siteFonts": [],
     "uniqCompNum": 26,
-    "versionPublish": "4.12.0",
+    "versionPublish": "4.12.1",
     "screenshot": "screenshot.png",
-    "imageResize": true,
-    "publishType": "github",
-    "gitHubName": "decentralschools",
-    "gitHubPath": ""
+    "imageResize": true
   },
   "pages": {
     "index.html": {
@@ -166,7 +163,7 @@
               "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
             },
             "overlay": true,
-            "overlayColor": "#c0392b",
+            "overlayColor": "#000000",
             "overlayOpacity": 0.9
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
@@ -190,7 +187,7 @@
             "showSubtitles": true,
             "ShowTexts": true,
             "showButtons": true,
-            "imageSize": "32",
+            "imageSize": "27",
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
@@ -270,7 +267,7 @@
           "subtitle1": "Coding",
           "caption1": "All schools run some sort of coding class, the majority of the important code (like <a href=\"https://github.com/bitcoin/bitcoin\" target=\"_blank\">Bitcoin</a>) in the world sits on GitHub.&nbsp;<br>Students should be given the chance to learn how it works and experiment with it.<br>GitHub Pages allows you to collaborate and build websites, and host them! (just like this site!)<br><br>",
           "number1": "01",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://desktop.github.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;install</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;pages</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://www.youtube.com/watch?v=rpeceXY1QBM\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\"></span>fork?</a>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://desktop.github.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;install</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://pages.github.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;pages</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://www.youtube.com/watch?v=rpeceXY1QBM\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\"></span>fork?</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -366,9 +363,9 @@
           },
           "title1": "Brave Browser",
           "subtitle1": "Browser upgrade",
-          "caption1": "Privacy for students in any learning environment should be a schools priority, brave browser stops third parties spying on it's users by default.<br>Users can also earn rewards for using the browser, and learn about security at the same time.<br><br>Brave is a free and open-source web browser developed by Brave Software, Inc. based on the Chromium web browser. It blocks ads and website trackers, and provides a way for users to send cryptocurrency contributions in the form of Basic Attention Tokens to websites and content creators.<br><br>",
+          "caption1": "Privacy for students in any learning environment should be a schools priority, brave browser stops third parties spying on its users by default.\n<br>Users can also earn rewards for using the browser, and learn about security at the same time.\n<br>\n<br>Brave is a free and open-source web browser developed by Brave Software, Inc. based on the Chromium web browser. It blocks ads and website trackers, and provides a way for users to send contributions in the form of Basic Attention Tokens to websites and content creators.\n<br>",
           "number1": "01",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://brave.com/kdn849\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-browse mbr-iconfont mbr-iconfont-btn\"></span>install</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-browse mbr-iconfont mbr-iconfont-btn\"></span>why?</a>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://brave.com/kdn849\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-browse mbr-iconfont mbr-iconfont-btn\"></span>install</a> ",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -415,9 +412,9 @@
           },
           "title1": "LBRY",
           "subtitle1": "Youtube upgrade",
-          "caption1": "YouTube has been the #1 search engine for students to learn for years, it has been a great platform up until recently.<br>Unforunately anything students upload to YouTube ends up belonging to Google.<br>Millions of students all over the world have had their work flagged and deleted without any recource.<br><br>LBRY is a platform where students and educational institutions own the content they create<br><br><br>",
+          "caption1": "YouTube has been the #1 search engine for students to learn for years, it has been a great platform up until recently.\n<br>Unfortunately anything students upload to YouTube ends up belonging to Google.\n<br>Millions of students all over the world have had their work flagged and deleted without any resource.\n<br>\n<br>LBRY is a platform where students and educational institutions own the content they create.&nbsp;To learn more about LBRY from a student perspective.. please watch this student lead interview with LBRY CEO, Jeremy Kauffman <a href=\"https://open.lbry.com/@kdnolan:f/LBRYEducationpodcast:d?r=49qK9fVZCQHXyYFVD44PcW4Be4Cqizyi\" target=\"_blank\">here </a>   <br><br><br><br><br>",
           "number1": "01",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"icon54-v1-mp4-doc mbr-iconfont mbr-iconfont-btn\"></span>what?</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://lbry.tv/$/invite/@kdnolan:f\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"icon54-v1-mp4-doc mbr-iconfont mbr-iconfont-btn\"></span>install</a>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://open.lbry.com/@kdnolan:f/LBRYEducationpodcast:d?r=49qK9fVZCQHXyYFVD44PcW4Be4Cqizyi\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"icon54-v1-mp4-doc mbr-iconfont mbr-iconfont-btn\"></span>VIDEO PROJECT</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://open.lbry.com/@kdnolan:f/LBRYEducationpodcast:d?r=49qK9fVZCQHXyYFVD44PcW4Be4Cqizyi\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"icon54-v1-mp4-doc mbr-iconfont mbr-iconfont-btn\"></span>what?</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://lbry.tv/$/invite/@kdnolan:f\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"icon54-v1-mp4-doc mbr-iconfont mbr-iconfont-btn\"></span>install</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -464,9 +461,9 @@
           },
           "title1": "IPFS",
           "subtitle1": "File Hosting upgrade",
-          "caption1": "There are so many education based platforms (like <a href=\"http://rocketshoes.io\" target=\"_blank\">Rocketshoes.io</a>) being built on top of this amazing protocol<br>The InterPlanetary File System is a protocol and peer-to-peer network for storing and sharing data in a distributed file system. IPFS uses content-addressing to uniquely identify each file in a global namespace connecting all computing devices.<br>T<br><br>",
+          "caption1": "There are so many education based platforms (like <a href=\"http://rocketshoes.io\" target=\"_blank\">Rocketshoes.io</a>) being built on top of this amazing protocol<br>The Interplanetary File System is a protocol and peer-to-peer network for storing and sharing data in a distributed file system. IPFS uses content-addressing to uniquely identify each file in a global namespace connecting all computing devices.<br>T<br><br>",
           "number1": "01",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://ipfs.io/ipfs/QmR7GSQM93Cx5eAg6a6yRzNde1FQv7uL6X1o4k7zrJa3LX/ipfs.draft3.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mdi-editor-attach-file mbr-iconfont mbr-iconfont-btn\"></span>whitepaper</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://github.com/ipfs-shipyard/ipfs-desktop\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mdi-editor-attach-file mbr-iconfont mbr-iconfont-btn\"></span>install</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://github.com/ipfs-shipyard/ipfs-desktop\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mdi-editor-attach-file mbr-iconfont mbr-iconfont-btn\"></span>how?</a> ",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://ipfs.io/ipfs/QmR7GSQM93Cx5eAg6a6yRzNde1FQv7uL6X1o4k7zrJa3LX/ipfs.draft3.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mdi-editor-attach-file mbr-iconfont mbr-iconfont-btn\"></span>whitepaper</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://github.com/ipfs-shipyard/ipfs-desktop\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mdi-editor-attach-file mbr-iconfont mbr-iconfont-btn\"></span>install</a>  ",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -513,9 +510,9 @@
           },
           "title1": "Keybase",
           "subtitle1": "Collaboration/proofs/security",
-          "caption1": "An amazing decentralised collaborative space for students to share work and retain ownership over their content<br>It's also a good space to store important documents for school communities.<br>The proof of identy is something that we think is beneficial for individuals, but schools as well.<br><br>",
+          "caption1": "An amazing decentralised collaborative space for students to share work and retain ownership over their content\n<br>It's also a good space to store important documents for school communities.\n<br>The proof of identity is something that we think is beneficial for individuals, and schools alike. \n<br><br>",
           "number1": "01",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://keybase.io/download\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"icon54-v1-finger-print mbr-iconfont mbr-iconfont-btn\"></span>install</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://keybase.io/download\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"icon54-v1-finger-print mbr-iconfont mbr-iconfont-btn\"></span>security</a>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://keybase.io/download\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"icon54-v1-finger-print mbr-iconfont mbr-iconfont-btn\"></span>install</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://keybase.pub/woorannaparkps/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"icon54-v1-finger-print mbr-iconfont mbr-iconfont-btn\"></span>EXAMPLE SCHOOL</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -562,9 +559,9 @@
           },
           "title1": "Peepeth",
           "subtitle1": "Social Media upgrade",
-          "caption1": "Most schools have a twitter account, it's time to upgrade that twitter account with a decentralsied interface.<br>Peepeth locks all tweets into the ethereum blockchain so that they belong to you/your school and can't be deleted by anyone else.<br><br>",
+          "caption1": "Most schools have a twitter account, it's time to upgrade that twitter account with a decentralised interface.\n<br>Peepeth locks all tweets into the Ethereum blockchain so that they belong to you/your school and can't be deleted by any third party.\n<br>",
           "number1": "01",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://peepeth.com/help/mobile\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span>dapp.download</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span>join</a> ",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://peepeth.com/help/mobile\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span>dapp.download</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://peepeth.com/signup?p=a\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span>SIGN UP</a> ",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -611,9 +608,9 @@
           },
           "title1": "METAMASK",
           "subtitle1": "identification/gateway&nbsp;",
-          "caption1": "MetaMask is a bridge that allows you to visit the distributed web of tomorrow in your browser today. It allows you to run Ethereum dApps right in your browser without running a full Ethereum node.\n<br><br>",
+          "caption1": "MetaMask is a bridge that allows you to visit the distributed web of tomorrow in your browser today. It allows you to run Ethereum dApps right in your browser without running a full Ethereum node. <br><br>&nbsp;This is an essential tool to utilise software like <a href=\"index.html#features13-l\">peepeth</a><br>",
           "number1": "01",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://metamask.io/download.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mdi-action-settings-ethernet mbr-iconfont mbr-iconfont-btn\"></span>install</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mdi-action-settings-ethernet mbr-iconfont mbr-iconfont-btn\"></span>WHAT?</a>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://metamask.io/download.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mdi-action-settings-ethernet mbr-iconfont mbr-iconfont-btn\"></span>install</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://www.youtube.com/watch?v=6Gf_kRE4MJU\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mdi-action-settings-ethernet mbr-iconfont mbr-iconfont-btn\"></span>WHAT?</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -662,7 +659,7 @@
           "subtitle1": "Google Apps/OFFICE365 upgrade",
           "caption1": "Blockstack is a full-stack decentralized computing network that enables a new generation of applications where developers and users can interact fairly and securely. Blockstack uses blockchain technology to build protocols and developer tools designed to enable a fair and open Internet that returns digital rights to developers and consumers. Led by some of the world’s foremost experts on distributed systems, Blockstack allows users to own their own data that they can take with them from app to app in the ecosystem, along with their Blockstack ID that eliminates the need for password-based logins. The end result is privacy, security, and freedom.\n<br>\n<br><br>",
           "number1": "01",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"icon54-v1-domino mbr-iconfont mbr-iconfont-btn\"></span>Create.ID</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"icon54-v1-domino mbr-iconfont mbr-iconfont-btn\"></span>what?</a>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://browser.blockstack.org/sign-up\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"icon54-v1-domino mbr-iconfont mbr-iconfont-btn\"></span>Create.ID</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://blockstack.org/about\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"icon54-v1-domino mbr-iconfont mbr-iconfont-btn\"></span>what?</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -711,7 +708,7 @@
           "subtitle1": "HARDWARE",
           "caption1": "The Raspberry Pi is a low cost, credit-card sized computer that plugs into a computer monitor or TV, and uses a standard keyboard and mouse. It is a capable little device that enables people of all ages to explore computing, and to learn how to program in languages like Scratch and Python.\n<br><br>Building a full node is a fun project (PBL) you can do with students of any age, and there are hundreds even more innovative projects online for students to explore.<br><br>",
           "number1": "01",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://www.amazon.com.au/Raspberry-Pi-Model-4GB-RAM/dp/B07TC2BK1X/ref=sr_1_2?keywords=raspberry+pi+4&amp;qid=1587962837&amp;sr=8-2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"icon54-v3-desktop-computer-2 mbr-iconfont mbr-iconfont-btn\"></span>order one</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://github.com/kdmukai/raspi4_bitcoin_node_tutorial\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"icon54-v2-bitcoin-app mbr-iconfont mbr-iconfont-btn\"></span> FULL.NODE</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://pi-hole.net/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"imind-block-cloud mbr-iconfont mbr-iconfont-btn\"></span>PiHole</a>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://amzn.to/2B5DrpS\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"icon54-v3-desktop-computer-2 mbr-iconfont mbr-iconfont-btn\"></span>order one</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://github.com/kdmukai/raspi4_bitcoin_node_tutorial\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"icon54-v2-bitcoin-app mbr-iconfont mbr-iconfont-btn\"></span> FULL.NODE</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://pi-hole.net/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"imind-block-cloud mbr-iconfont mbr-iconfont-btn\"></span>PiHole</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -744,7 +741,7 @@
             "bgColorRadio": false,
             "bgColor": "#f39c12",
             "overlay": true,
-            "overlayColor": "#c0392b",
+            "overlayColor": "#000000",
             "overlayOpacity": "0.8"
           },
           "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
