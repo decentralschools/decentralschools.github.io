@@ -109,16 +109,15 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form2-o\">submit a new tool</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form2-o\">submit a new tool</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form2-o\">course</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/scan.png",
+              "src": "@PROJECT_PATH@/assets/images/216559-200-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -164,7 +163,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": 0.9
+            "overlayOpacity": "0.6"
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
           "title": "decentral schools",
@@ -742,7 +741,7 @@
             "bgColor": "#f39c12",
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.8"
+            "overlayOpacity": "0.6"
           },
           "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
           "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
